@@ -28,4 +28,5 @@ func main() {
 	s := b
 	g := 'G'
 	fmt.Printf("%T %T %T %T\n", p, q, s, g)
+	fmt.Println("go", 'G')
 }
